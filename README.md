@@ -26,12 +26,13 @@ The aim of this project is to analyze the spending behavior of customer groups u
 ### Hypothesis 2
 - There is no positive relationship between annual income and spending score. K-means clustering result shows that different clusters have different annual income and spending scores.
 ### Hypothesis 3
-- It cannot be said that the highest spending score is directly had by middle-aged people. There is a negative relationship between age and spending score, which is determined by correlation matrix and linear regression. It can be said that people aged 20-40 have the highest spending score![image](https://github.com/asumandemireriden/mall_customer_analysis_Rprogramming/assets/73910961/bec7f8cd-0280-4ddf-9384-01c62bccb68e)
+- It cannot be said that the highest spending score is directly had by middle-aged people. There is a negative relationship between age and spending score, which is determined by correlation matrix and linear regression. It can be said that people aged 20-40 have the highest spending score
 
 ## References
 - Zahair, A. (2022). Retrieved from https://www.corporatevision-news.com/5-customer-segmentation-analysis-methods-for-business-growth/ 
 - Rashmi, Kassambara 06 May 2020, The demo data used in this tutorial is available in the default installation of R. Juste type data(“USArrests”)Reply, & Kassambara. (2018). K-means clustering in R: Algorithm and practical examples. Retrieved from https://www.datanovia.com/en/lessons/k-means-clustering-in-r-algorith-and-practical-examples/ 
 - (2022). Retrieved from https://www.geeksforgeeks.org/how-to-create-correlation-heatmap-in-r/ 
+- Mall Customer Segmentation Data. (2018, August 11). Kaggle. https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
 
 
